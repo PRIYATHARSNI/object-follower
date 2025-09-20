@@ -35,5 +35,4 @@ https://www.tinkercad.com/things/jNY7tv5Ods4-mobile-object-following-robot?share
 <img width="725" height="453" alt="image" src="https://github.com/user-attachments/assets/24434f22-370b-46f1-b625-0380d4ff2a90" />
 
 
-## License
-MIT License
+
